@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2527eb34-5ced-4e2e-b8e9-16569103b3ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dataClass/DataClass.java" afterDir="false" />
+    <list default="true" id="2527eb34-5ced-4e2e-b8e9-16569103b3ba" name="Changes" comment="data class in kotlin and class in java">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inline/inline.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -27,19 +28,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LjehNVmc4vnaN6aYPoLwxeUZXC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Kotlin-Workspace/Kotlin"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Kotlin-Workspace/Kotlin&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DataClass">
+}</component>
+  <component name="RunManager" selected="Kotlin.InlineKt">
     <configuration name="DataClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataClass.DataClass" />
       <module name="KOTLIN" />
@@ -49,6 +52,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InlineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inline.InlineKt" />
+      <module name="KOTLIN" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InlineKt" />
         <item itemvalue="Application.DataClass" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
@@ -84,6 +95,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676389822090</updated>
     </task>
+    <task id="LOCAL-00001" summary="data class in kotlin and class in java">
+      <created>1709190194917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709190194917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="data class in kotlin and class in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="data class in kotlin and class in java" />
   </component>
 </project>
